@@ -1,0 +1,5 @@
+GitHub è una piattaforma di hosting per il controllo di versione e la collaborazione.  
+Permette agli sviluppatori di lavorare insieme su progetti condivisi, anche da remoto.  
+Offre strumenti per il versionamento del codice, semplificando il tracciamento delle modifiche.  
+Grazie alle pull request, facilita la revisione e l'integrazione del codice.  
+È utile per condividere progetti open source e costruire un portfolio professionale.  
